@@ -112,3 +112,21 @@ body {
   .bss:hover{
 background-color: rgb(20, 20, 81);
   }
+
+
+  .texthed{
+    position: relative;
+    top: 1000px;
+  }
+
+  .texthed h1{
+    font-size: 1.4cm;
+    /* font-family: Arial black; */
+  }
+
+  .jj img{
+    
+  box-shadow: none;
+  width: 100%;
+  /* height: 4cm; */
+  }
