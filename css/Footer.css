@@ -1,0 +1,96 @@
+.footer {
+    background-color: rgb(236, 236, 236);
+    width: 100%;
+    height: 10cm;
+    position: relative;
+    top: 30cm;
+}
+
+
+
+.hhtx{
+    display: flex;
+}
+.tex-1,
+.tex-2,
+.tex-3,
+.tex-4,
+.tex-5 {
+    width: 100%;
+    height: 10cm;
+}
+
+.tex-1 {
+    /* background-color: red; */
+
+
+}
+
+.tex-2 {
+    /* background-color: blue; */
+    
+}
+
+.tex-3 {
+    /* background-color: aquamarine; */
+}
+
+.tex-4 {
+    /* background-color: antiquewhite; */
+}
+
+.tex-5 {
+    /* background-color: bisque; */
+    width: 200%;
+}
+
+.akshay{
+    position: relative;
+    top: 50px;
+ 
+}
+.dfsf{
+    font-family: Arial black;
+}
+.akshay h6{
+    font-size: 15px;
+    /* background-color: red; */
+    width: 300px;
+    color: rgb(100, 100, 100);
+}
+.scomed{
+    display: flex;
+}
+
+.imgsce{
+    width: 50px;
+  object-fit: contain;
+    aspect-ratio:5/3;
+    position: relative;
+    left: 10px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.akshay ul li{
+    display: flex;
+    padding: 10px;
+    position: relative;
+    right: 9px;
+    bottom: 5px;
+
+    color: black;
+    
+}
+
+
+.kkkl{
+    position: relative;
+    left: 50px;
+
+}
+
+.akshay ul li a{
+    text-decoration: none !important;
+    color: black;
+}
