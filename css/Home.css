@@ -457,7 +457,9 @@ border: 1px solid rgba(255, 255, 255, 1);
     }
 
     .heading {
-        font-size: 60px;
+        /* background-color: red; */
+        /* width:300px; */
+        font-size: 40px;
         position: relative;
         top: -50px;
         right: 70px;
@@ -465,7 +467,7 @@ border: 1px solid rgba(255, 255, 255, 1);
 
     .color {
         position: relative;
-        bottom: 220px;
+        bottom: 450px;
         right: 50px;
     }
 
