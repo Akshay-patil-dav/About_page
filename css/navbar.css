@@ -1,3 +1,6 @@
+.kdknav{
+  position: fixed;
+}
 .menu{
     position: relative;
     left: 200px;
